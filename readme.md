@@ -11,6 +11,7 @@
 * Fees such as a delivery fee
 * Taxation on a the item level
 * Prices display currency and locale
+* Optional: save and retrieve all prices in cents
 * Endless item chaining for complex systems
 * Totals of all items within the item chains
 * Item Model Relation at a global and item level
